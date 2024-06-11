@@ -1,0 +1,10 @@
+langchain
+gigachain
+langchain_community
+python-dotenv
+pinecone-client
+seaborn
+pandas
+numpy
+matplotlib
+langchain-pinecone

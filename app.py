@@ -66,6 +66,7 @@ if "messages" not in st.session_state:
 if "prompts_array" not in st.session_state:
 
     system_prompt = (
+        "Тебя зовут ИнтеллектУм, ты - умный чат-бот для помощи ученикам в их обучении"
         "Используй данный тебе контекст для ответа на вопрос"
         "Если ты незнаешь ответ, не отвечай"
         "Контекст: {context}"
